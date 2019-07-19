@@ -9,7 +9,7 @@ improving all
 06-ajax
 07-firebase
 08-project-1
-09-portfolio-update/01-Homework/Instructions
+09-portfolio-update
 10-nodejs
 11-js-constructors
 12-mysql
